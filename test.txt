@@ -1,5 +1,11 @@
 Hello git 123 Branch
 Its new line.
+<<<<<<< HEAD
 Add new line.123123
 rebase 1
 rebase 2
+=======
+Add new line.696969
+rebase 2
+rebase 4
+>>>>>>> dev
